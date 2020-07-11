@@ -1,4 +1,14 @@
+# Jeferson Chaves 👨‍💻
+<p align='center'>
+  <a href="https://www.linkedin.com/in/jefersonchaves/"><img height="30" src="icon/linkedin.png"></a>
+  <a href="https://medium.com/@jefersonchaves/"><img height="30" src="icon/medium.jpg"></a>
+</p>
+
 ### Hi there 👋
+
+I'm a software developer and I have passion for learning and sharing - currently I'm focused on Salesforce platform but also love other areas such as Agile, and Lean.
+I have a [public blog on medium](https://medium.com/@jefersonchaves) to share my thoughts and my journney.
+
 
 <!--
 **jefersonchaves/jefersonchaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
