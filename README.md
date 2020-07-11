@@ -1,7 +1,7 @@
 # Jeferson Chaves 👨‍💻
 <p align='center'>
-  <a href="https://www.linkedin.com/in/jefersonchaves/"><img height="30" src="https://raw.githubusercontent.com/jefersonchaves/jefersonchaves/icon/linkedin.png"></a>
-  <a href="https://medium.com/@jefersonchaves/"><img height="30" src="https://raw.githubusercontent.com/jefersonchaves/jefersonchaves/icon/medium.jpg"></a>
+  <a href="https://www.linkedin.com/in/jefersonchaves/"><img height="30" src="https://raw.githubusercontent.com/jefersonchaves/jefersonchaves/master/icon/linkedin.png"></a>
+  <a href="https://medium.com/@jefersonchaves/"><img height="30" src="https://raw.githubusercontent.com/jefersonchaves/jefersonchaves/master/icon/medium.jpg"></a>
 </p>
 
 ### Hi there 👋
