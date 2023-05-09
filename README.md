@@ -9,6 +9,7 @@
 I'm a software developer and I have passion for learning and sharing - currently I'm focused on Salesforce platform but also love other areas such as Agile, and Lean.
 I have a [public blog on medium](https://jefersonchaves.medium.com/) to share my thoughts and my journey.
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonchaves)]
 
 <!--
 **jefersonchaves/jefersonchaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
